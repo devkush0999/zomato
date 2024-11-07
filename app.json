@@ -1,4 +1,9 @@
 {
   "name": "zomato",
-  "displayName": "zomato"
+  "displayName": "zomato",
+  "extra": {
+    "eas": {
+      "projectId": "d392da1b-5e60-4b92-862b-9dfb95143f65"
+    }
+  }
 }
